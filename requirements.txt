@@ -1,0 +1,9 @@
+datasets
+tokenizers
+transformers
+tiktoken
+matplotlib
+seaborn
+pandas
+numpy
+tabulate
